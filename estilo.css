@@ -1,0 +1,25 @@
+.txt{
+    justify-content: center;
+    align-items: center;
+    color: brown;
+}
+
+#TablaRanking{
+    color: black;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    padding-left: 3%;
+    width: 100%;
+    border: 1px solid;
+    text-align: center;
+    padding: 15px;
+    text-align: left;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+#resenia{
+    color: black;
+    background-color:wheat;
+}
